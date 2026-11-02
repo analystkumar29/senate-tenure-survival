@@ -1,0 +1,13 @@
+# Analysis
+lifelines==0.30.3
+pandas==2.3.3
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+
+# Tests
+pytest==9.2.0
+
+# Re-running analysis.ipynb
+nbconvert==7.17.2
+ipykernel==7.4.0
